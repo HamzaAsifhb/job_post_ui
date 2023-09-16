@@ -30,7 +30,7 @@ class EditJob extends StatelessWidget {
                   ),
                   const SizedBox(height: 20),
                   const InputField(
-                    placeholderText: "Description",
+                    placeholderText: "Description here",
                     initialValue:
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis eget in lectus sit amet pellentesque eleifend tellus neque. Praesent sagittis ultricies volutpat turpis hendrerit nulla ultricies massa elementum. Convallis gravida enim erat enim commodo praesent malesuada facilisis. Potenti orci amet, dui nunc aliquet pellentesque sit nibh scelerisque.",
                     minLines: 13,
